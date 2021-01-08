@@ -1,0 +1,21 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    anti_captcha (2.3.0)
+    childprocess (3.0.0)
+    curb (0.9.11)
+    rubyzip (1.3.0)
+    selenium-webdriver (3.142.7)
+      childprocess (>= 0.5, < 4.0)
+      rubyzip (>= 1.2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  anti_captcha
+  curb
+  selenium-webdriver
+
+BUNDLED WITH
+   2.1.4
